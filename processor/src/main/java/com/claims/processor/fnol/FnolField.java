@@ -1,0 +1,19 @@
+package com.claims.processor.fnol;
+
+public enum FnolField {
+    POLICY_NUMBER,
+    POLICY_HOLDER_NAME,
+    EFFECTIVE_DATES,
+    INCIDENT_DATE,
+    INCIDENT_TIME,
+    INCIDENT_LOCATION,
+    DESCRIPTION,
+    CLAIMANT,
+    CONTACT_DETAILS,
+    ASSET_TYPE,
+    ASSET_ID,
+    ESTIMATED_DAMAGE,
+    CLAIM_TYPE,
+    ATTACHMENTS,
+    INITIAL_ESTIMATE
+}

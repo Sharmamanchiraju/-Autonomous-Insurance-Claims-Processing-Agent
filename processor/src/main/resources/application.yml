@@ -1,0 +1,12 @@
+extraction:
+  enabled: true
+  primary: OCR
+  fallback: AWS
+  min-text-length: 200
+
+ocr:
+  enabled: true
+  language: eng
+
+aws:
+  enabled: true
